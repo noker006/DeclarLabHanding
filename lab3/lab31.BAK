@@ -1,0 +1,24 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  LAB31
+ FileName: LAB31.PRO
+ Purpose: No description
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+
+include "lab31.inc"
+
+predicates
+
+  lab31()
+
+clauses
+
+  lab31():-!.
+
+goal
+
+  lab31().
